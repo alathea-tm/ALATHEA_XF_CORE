@@ -1,1 +1,18 @@
-{}
+{
+  "title": "[A] Core",
+  "description": "Вспомогательный плагин для работы плагинов Alathea.",
+  "version_string": "1.0.0 Alpha 1",
+  "version_id": 1000010,
+  "dev": "Alathea",
+  "dev_url": "https://alathea.ru",
+  "extra_urls": {
+    "Центр загрузок Alathea": "https://dc.alathea.ru",
+    "Страница в ЦЗ Alathea": "https://dc.alathea.ru/xfcore"
+  },
+  "icon": "",
+  "require": {
+    "XF": [2000010, "XenForo 2.0.0+"],
+    "php": ["8.1", "PHP 8.1+"],
+    "php-ext/json": ["*", "JSON extension"]
+  }
+}

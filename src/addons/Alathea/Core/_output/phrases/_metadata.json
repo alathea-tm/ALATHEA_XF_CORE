@@ -1,0 +1,26 @@
+{
+    "admin_navigation.alathea_core.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "000fab60d90e2d2c7db9fc0e9942d087"
+    },
+    "admin_navigation.alathea_core_plugin.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "4f89dd4d1404a3ceec51f8ed0d71706d"
+    },
+    "admin_navigation.alathea_core_plugin_list.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "5d92689483ef79a6a8ead94c9d2c86de"
+    },
+    "admin_navigation.alathea_core_preview.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "9db975233e6f572fcab1f26885de9d04"
+    }
+}

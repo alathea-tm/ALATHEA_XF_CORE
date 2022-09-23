@@ -1,0 +1,11 @@
+{
+    "route_type": "admin",
+    "route_prefix": "alathea_plugin",
+    "sub_name": "",
+    "format": ":str<addon_id_url>/",
+    "build_class": "",
+    "build_method": "",
+    "controller": "Alathea\\Core:Plugin",
+    "context": "alathea_core_plugin_list",
+    "action_prefix": ""
+}

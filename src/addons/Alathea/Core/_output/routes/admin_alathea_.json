@@ -1,0 +1,11 @@
+{
+    "route_type": "admin",
+    "route_prefix": "alathea",
+    "sub_name": "",
+    "format": "",
+    "build_class": "",
+    "build_method": "",
+    "controller": "Alathea\\Core:Preview",
+    "context": "alathea_core_preview",
+    "action_prefix": ""
+}

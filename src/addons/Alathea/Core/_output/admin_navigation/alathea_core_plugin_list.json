@@ -1,0 +1,10 @@
+{
+    "parent_navigation_id": "alathea_core_plugin",
+    "display_order": 1,
+    "link": "alathea_plugin",
+    "icon": "",
+    "admin_permission_id": "",
+    "debug_only": false,
+    "development_only": false,
+    "hide_no_children": false
+}
